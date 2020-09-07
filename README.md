@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-A website directing pepsi with its soft drink flavors (not all) with a simple animation of changing colors in the background as well as a modern and simple design. Access [here](https://dribbble.com/JhonyWalker-pixel) and see how it was.
+A website directing pepsi with its soft drink flavors (not all) with a simple animation of changing colors in the background as well as a modern and simple design. Access [here](https://jhonywalker-pixel.github.io/pepsi-website/) and see how it was.
 
 ## :computer: Languages used
 
